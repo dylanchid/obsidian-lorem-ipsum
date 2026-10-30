@@ -1,0 +1,9 @@
+{
+  "id": "lorem-ipsum",
+  "name": "Lorem Ipsum",
+  "version": "1.0.0",
+  "minAppVersion": "1.0.0",
+  "description": "Type lorem + Tab (or lorem...) to insert a paragraph of lorem ipsum placeholder text.",
+  "author": "dylanchid",
+  "isDesktopOnly": false
+}
